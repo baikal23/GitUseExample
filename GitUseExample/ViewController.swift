@@ -12,9 +12,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("This is a Wenderlich git tutorial")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBAction func buttonClicked(_ sender: Any) {
+        print("Button clicked")
+    }
+    
 }
 
