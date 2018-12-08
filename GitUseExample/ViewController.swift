@@ -18,6 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func buttonClicked(_ sender: Any) {
         print("Button clicked")
+        print("You are finished")
     }
     
 }
