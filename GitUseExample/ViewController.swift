@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("This is a Wenderlich git tutorial")
         // Do any additional setup after loading the view, typically from a nib.
+        print("I added this in the map feature branch")
+        print("I wil try to merge this with the master branch")
     }
 
     @IBAction func buttonClicked(_ sender: Any) {
