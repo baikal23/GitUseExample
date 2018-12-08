@@ -5,6 +5,7 @@
 //  Created by Susan Kohler on 12/7/18.
 //  Copyright © 2018 Susan Kohler. All rights reserved.
 //
+//  This is code for EXCELLENT git tutorial https://www.raywenderlich.com/675-how-to-use-git-source-control-with-xcode-9
 
 import UIKit
 
